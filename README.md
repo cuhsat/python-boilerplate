@@ -1,4 +1,4 @@
-# Python Boilerplate ![Build](https://travis-ci.org/cuhsat/practical.svg)
+# Python Boilerplate ![Build](https://travis-ci.org/cuhsat/python-boilerplate.svg)
 A basic structure for your [Python](https://www.python.org) scripts.
 
 * `script.py`      a simple script with command line parsing
