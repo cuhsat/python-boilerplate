@@ -46,7 +46,7 @@ def main(script, arg=None, *args):
             print(__doc__.strip())
 
         elif arg in ("-v", "--version"):
-            print("Foo " + __version__)
+            print(__version__)
 
         elif arg:
             print("Unknown option or parameter not given.")
