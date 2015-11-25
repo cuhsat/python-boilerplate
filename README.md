@@ -6,4 +6,4 @@ A basic structure for [Python](https://www.python.org) scripts.
 
 License
 -------
-Released under the terms of the [MIT license](LICENSE).
+Released into the [Public Domain](LICENSE).
